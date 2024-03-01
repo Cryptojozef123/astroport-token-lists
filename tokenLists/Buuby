@@ -1,0 +1,23 @@
+{
+  "decimals": 6,
+  "initial_balances": [
+    {
+      "address": "sei15j5qwxsrjh0n26xgjlm020scvqcwgwy4ft7x38",
+      "amount": "1600000000"
+    }
+  ],
+  "marketing": {
+    "description": "Bubby Bank is used to store Sei coins",
+    "logo": {
+      "url": "https://arweave.net/XxHQdDtI-S19yTlRLi4AgK6NbM28JDc8vvLciVwb9eI"
+    },
+    "marketing": "sei15j5qwxsrjh0n26xgjlm020scvqcwgwy4ft7x38",
+    "project": "Bubby Bank on SEI"
+  },
+  "mint": {
+    "cap": "1600000000",
+    "minter": "sei15j5qwxsrjh0n26xgjlm020scvqcwgwy4ft7x38"
+  },
+  "name": "Bubby Bank️",
+  "symbol": "BUBBY"
+}
