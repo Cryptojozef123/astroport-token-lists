@@ -1026,4 +1026,11 @@
     "icon": "/img/FrozenFireSei.png",
     "decimals": 6
   }
+  {
+    "protocol": "DepthsSei",
+    "symbol": "DEPTHSSEI",
+    "token": "sei1sdsrfdn95330s5ctfaj2ycjqeupq4luzwx2ztglh8lh4t88w588s6na9gf",
+    "icon": "/img/DepthsSei.png",
+    "decimals": 6
+  },
 ]
